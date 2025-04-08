@@ -1,1 +1,2 @@
-# task_ZaraKostandyan
+ установить зависимости: npm i
+ запустить приложение: npm run serve
